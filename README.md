@@ -1,5 +1,7 @@
 # corporate-fpa-toolkit
 
+[![CI](https://github.com/rxj0102/corporate-fpa-toolkit/actions/workflows/ci.yml/badge.svg)](https://github.com/rxj0102/corporate-fpa-toolkit/actions/workflows/ci.yml)
+
 A from-scratch, fully synthetic Python toolkit that models a **driver-based
 budgeting, forecasting, and variance analysis workflow** for a multi-business-unit
 retail/distribution company. It was built as a portfolio project to demonstrate
